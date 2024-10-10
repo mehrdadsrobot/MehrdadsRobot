@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehrdad Kheirmand</h1>
-<h3 align="center">A passionate FullStack Developer from Iran</h3>
+<h3 align="center">A passionate Developer from Iran</h3>
 
-- 💬 Ask me about **react, .NetCore, Node.js etc.**
+- 💬 Ask me about **react, .NetCore, Node.j etc.**
 
 - 📫 How to reach me **mithradates23@gmail.com**
 
